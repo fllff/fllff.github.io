@@ -1,0 +1,9 @@
+@media (min-width: 66.5rem){
+    .side-bar {
+        width: calc((100% - 1064px) / 100 + 364px);
+        min-width: 264px;
+    }
+    .main {
+        margin-left: calc( (100% - 1064px) / 100 + 364px );
+    }
+}
